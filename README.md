@@ -60,11 +60,6 @@
 
 </td></tr></table>
 
-<br/>
-
-<br/>
-
-## Github Stats
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=abilsabili50&show_icons=true&theme=tokyonight" align="center" /></div>
 
@@ -73,17 +68,6 @@
 <br/>
 
 <br/>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=abilsabili50&&style=flat-square" align="center" />
-</div>  
-
-
-<br/>
-
-<br />
-
----
 
 <div align="center">
 <a href="https://github.com/abilsabili50" target="_blank">
@@ -102,4 +86,9 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>
+
+---
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=abilsabili50&&style=flat-square" align="center" />
+</div>  
 
