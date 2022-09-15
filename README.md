@@ -1,9 +1,5 @@
-<div align="center">
-<img src="https://abilsabili50.github.io/image/mysetup-soon.jpg" align="center" height="300" width="" />
-</div>  
 
-
-## 👋Helo ges, my name is Abil
+# 👋Helo ges, my name is Abil
 
 - 👨‍⚖️ An undergraduate student at UPN "Veteran" Jawa Timur
 
