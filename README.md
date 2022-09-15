@@ -61,9 +61,9 @@
 </td></tr></table>
 
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=abilsabili50&show_icons=true&theme=tokyonight" align="center" /></div>
+<div><img src="https://github-readme-stats.vercel.app/api?username=abilsabili50&show_icons=true&theme=tokyonight" align="center" /></div>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abilsabili50&layout=compact&theme=tokyonight" align="center" /></div>
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abilsabili50&layout=compact&theme=tokyonight" align="center" /></div>
 
 <br/>
 
