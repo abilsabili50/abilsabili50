@@ -1,5 +1,5 @@
 
-# Helo 👋 ges, my name is Abil [![party_flushed](https://cdn3.emoji.gg/emojis/9977-party-flushed.gif)](https://emoji.gg/emoji/9977-party-flushed)
+# Helo 👋 ges, my name is Abil <img height="40" src="https://cdn3.emoji.gg/emojis/9977-party-flushed.gif" />
 
 - 👨‍⚖️ An undergraduate student at UPN "Veteran" Jawa Timur
 
