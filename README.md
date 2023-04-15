@@ -7,7 +7,7 @@
 
 - 🧐 I'm interested in backend web development
 
-- ✍ I'm currently learning backend web technology stack like nodejs and a bit about frontend technology
+- ✍ I'm currently learning backend web technology stack like nodejs, c#, & go
 
 - ❓ Ask me about anything related to backend stack and related technologies
 
