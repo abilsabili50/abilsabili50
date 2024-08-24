@@ -1,13 +1,13 @@
 
 # Helo 👋 ges, my name is Abil <img height="40" src="https://cdn3.emoji.gg/emojis/9977-party-flushed.gif" />
 
-- 👨‍⚖️ An undergraduate student at UPN "Veteran" Jawa Timur
+- 👨‍⚖️ Graduated student at UPN "Veteran" Jawa Timur
 
 - 🚀 Learn programming since 2020
 
 - 🧐 I'm interested in backend web development
 
-- ✍ I'm currently learning backend web technology stack like nodejs, c#, & go
+- ✍ I'm currently learning backend web technology stack like nodejs, go, java, & microservices
 
 - ❓ Ask me about anything related to backend stack and related technologies
 
