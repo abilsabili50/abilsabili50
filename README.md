@@ -1,7 +1,7 @@
 
 # Helo 👋 ges, my name is Abil <img height="40" src="https://cdn3.emoji.gg/emojis/9977-party-flushed.gif" />
 
-- 👨‍⚖️ Graduated student at UPN "Veteran" Jawa Timur
+- 👨‍⚖️ Fresh Graduate at UPN "Veteran" Jawa Timur
 
 - 🚀 Learn programming since 2020
 
