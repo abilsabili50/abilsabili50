@@ -1,5 +1,5 @@
 
-# Helo 👋 ges, my name is Abil <img height="40" src="https://cdn3.emoji.gg/emojis/9977-party-flushed.gif" />
+# Hello 👋, my name is Abil <img height="40" src="https://cdn3.emoji.gg/emojis/9977-party-flushed.gif" />
 
 - 👨‍⚖️ Fresh Graduate at UPN "Veteran" Jawa Timur
 
